@@ -28,7 +28,7 @@ let games = [
     { title: "Judo", pic: "asset/img/Games/Judo.svg" },
     { title: "Karate", pic: "asset/img/Games/Karate.svg" },
     { title: "Rhythmic Gymnastics", pic: "asset/img/Games/Rhythmic Gymnastics.svg" },
-    { title: "Roller Skating", pic: "asset/img/Games/Roller speed Skating.svg" },
+    { title: "Roller Skating", pic: "asset/img/Games/Roller Speed Skating.svg" },
     { title: "Rowing", pic: "asset/img/Games/Rowing.svg" },
     { title: "Sailing", pic: "asset/img/Games/Sailing.svg" },
     { title: "Shooting", pic: "asset/img/Games/Shooting.svg" },
