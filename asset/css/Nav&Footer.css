@@ -5,7 +5,8 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  body {
+
+body {
     background-image: url(../img/about-img/purplefoot.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -40,12 +41,15 @@
     right: 0;
   }
   
-  .nav-link:hover{
+  .nav-link:hover {
     color: white;
   }
-  .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  
+  .navbar-nav .nav-link.active,
+  .navbar-nav .nav-link.show {
     color: white;
   }
+  
   .nav-link {
     color: rgb(236, 236, 236);
   }
@@ -70,23 +74,28 @@
   #offcanvasNavbarLabel {
     font-weight: bold;
   }
-  #offcanvasNavbar{
+  
+  #offcanvasNavbar {
     background-color: purple;
   }
+  
   .dropdown-menu {
     background-image: linear-gradient(50deg, rgb(172, 0, 172), rgb(99, 0, 99));
   }
-  .dropdown-item.active, .dropdown-item:active{
+  
+  .dropdown-item.active,
+  .dropdown-item:active {
     background-color: white;
     color: black;
   }
+  
   .dropdown-menu a {
     color: rgb(0, 0, 0);
   }
+  
   /*navbar css end*/
 
-
-/* footer start */
+  /* footer start */
 #footer {
   background-image: url(../img/about-img/purplefoot.jpg);
   background-position: center;
